@@ -1,0 +1,29 @@
+{
+  "name": "ping_phone",
+  "version": "1.0.0",
+  "description": "pings phone to see if phone is on the network",
+  "main": "index.js",
+  "dependencies": {
+    "net-ping": "^1.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravenstudios/ping_phone.git"
+  },
+  "keywords": [
+    "ping",
+    "phone",
+    "home",
+    "automation"
+  ],
+  "author": "Robert Dodoson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravenstudios/ping_phone/issues"
+  },
+  "homepage": "https://github.com/ravenstudios/ping_phone#readme"
+}
